@@ -1,3 +1,5 @@
+> **This fork** will host an open-source charger-side firmware for the Longood CCS V2L discharger. See [DISCHARGER.md](DISCHARGER.md). Everything below is the upstream ccs32clara-chademo readme.
+
 # ccs32clara-chademo
 
 [![Build status](../../actions/workflows/CI-build.yml/badge.svg)](../../actions/workflows/CI-build.yml)
